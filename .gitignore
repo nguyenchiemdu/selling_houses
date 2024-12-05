@@ -41,3 +41,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter generated files
+*.g.dart
+*.gen.dart
+*.config.dart
+*.freezed.dart
+*.mocks.dart
+/lib/generated
+
+# FVM Version Cache
+.fvm/

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blueNewCar">#1155CC</color>
+    <color name="whiteAzureish">#D5E4FD</color>
+    <color name="gray">#797980</color>
+    <color name="greenDarkJungle">#0F1828</color>
+    <color name="blackChinese">#141414</color>
+    <color name="black">#000000</color>
+    <color name="lotion">#FBFBFB</color>
+    <color name="greenPhilippine">#108C43</color>
+    <color name="silverAmerican">#D1D1D1</color>
+    <color name="whiteAntiFlash">#F1F1F1</color>
+</resources>

@@ -1,0 +1,27 @@
+{
+  "@@locale": "en",
+  "offerExpiresInHours": "Offer expires in {hours} hours.",
+  "@offerExpiresInHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "unreserve": "Unreserve",
+  "markAsSold": "Mark as Sold",
+  "priceFormat": "${price}",
+  "@priceFormat": {
+    "placeholders": {
+      "price": {
+        "type": "double",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "acceptedOffer": "Accepted offer",
+  "reservedToastTitle": "This property has been marked as reserved.",
+  "reservedToastMessage": "You may still chat for a better deal!",
+  "selectMessage": "Select a message or type your own",
+  "sendAMessageHint": "Send a message..."
+}
